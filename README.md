@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**syxxn/syxxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.a
 :computer: I want to be a server developer. :computer:
 
 
