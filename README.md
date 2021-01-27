@@ -1,4 +1,4 @@
-## :computer: I want to be a back-end developer :computer: |
+## :computer: I want to be a back-end developer :computer:
 
 
 ||기술|설명|능력|
